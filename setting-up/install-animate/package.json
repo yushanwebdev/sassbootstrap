@@ -1,0 +1,21 @@
+{
+  "name": "install-animate",
+  "version": "1.0.0",
+  "description": "Installing animate.css",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "author": "Yushan Fernando",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "animate.css": "^4.1.1",
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "parcel-bundler": "^1.12.4",
+    "popper.js": "^1.16.1",
+    "sass": "^1.27.0"
+  }
+}

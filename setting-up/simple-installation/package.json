@@ -1,0 +1,19 @@
+{
+  "name": "simple-installation",
+  "version": "1.0.0",
+  "description": "Simple installation with Sass Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "author": "Yushan Fernando",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "parcel-bundler": "^1.12.4",
+    "popper.js": "^1.16.1",
+    "sass": "^1.27.0"
+  }
+}
