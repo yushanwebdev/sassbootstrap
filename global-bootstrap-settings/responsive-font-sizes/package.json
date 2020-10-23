@@ -1,0 +1,17 @@
+{
+  "name": "responsive-font-sizes",
+  "version": "1.0.0",
+  "description": "Enabling responsive font sizes",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "author": "Yushan Fernando",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "^4.5.3",
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.27.0"
+  }
+}
