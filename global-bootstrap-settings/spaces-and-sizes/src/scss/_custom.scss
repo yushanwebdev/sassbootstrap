@@ -1,0 +1,12 @@
+$spacer: 1rem;
+
+$spacers:(
+    5: ( $spacer * 8 ),
+    6: ( $spacer * 12 ),
+    huge: ( $spacer * 16 )
+);
+
+$sizes: (
+    33: 33.33%,
+    66: 66.66%
+);

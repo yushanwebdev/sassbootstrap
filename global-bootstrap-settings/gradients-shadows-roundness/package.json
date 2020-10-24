@@ -1,0 +1,16 @@
+{
+  "name": "gradients-shadows-roundness",
+  "version": "1.0.0",
+  "description": "Gradients, Shadows and Roundness",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "author": "Yushan Fernando",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.5.3",
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.27.0"
+  }
+}
